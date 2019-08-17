@@ -1,5 +1,5 @@
 ## APEX-REACT
-Apex chart about 10 Biggest Cities in Sweden....... craeted with REACT.
+Apex chart about 10 Biggest Cities in Sweden....... created with REACT.
 
 
 
